@@ -1,2 +1,2 @@
-# jemy.gitbub.io
+# jemy
 Jemy的博客
