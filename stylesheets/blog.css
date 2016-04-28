@@ -1,5 +1,6 @@
 body{
 	padding-top: 50px;
+  padding-bottom: 70px;
 }
 .blog-post {
   margin-bottom: 30px;
@@ -24,5 +25,7 @@ body{
 footer{
   background: #000000;
   color: #aaa;
-  padding: 15px;
+  padding: 5px;
+  margin-bottom: 0px;
+  text-align: center;
 }
